@@ -1,14 +1,11 @@
 {
   "name": "@element-plus-react/theme-chalk",
-  "version": "0.0.1",
-  "description": "liujiayii@foxmail.com",
+  "version": "0.0.2",
+  "author": "liujiayii@foxmail.com",
   "main": "index.css",
   "scripts": {
     "build": "node index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "devDependencies": {
     "element-plus": "^2.5.3"
   }
