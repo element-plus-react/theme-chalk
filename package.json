@@ -1,12 +1,22 @@
 {
+  "homepage": "https://element-plus-react.github.io/",
   "name": "@element-plus-react/theme-chalk",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "liujiayii@foxmail.com",
   "main": "index.css",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/element-plus-react/theme-chalk"
+  },
   "scripts": {
     "build": "node index.js"
   },
   "devDependencies": {
     "element-plus": "^2.5.3"
-  }
+  },
+  "files": [
+    "src",
+    "dark",
+    "*.css"
+  ]
 }
