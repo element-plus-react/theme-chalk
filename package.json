@@ -12,7 +12,7 @@
     "build": "node index.js"
   },
   "devDependencies": {
-    "element-plus": "^2.5.3"
+    "element-plus": "^2.6.1"
   },
   "files": [
     "src",
