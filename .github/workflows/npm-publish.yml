@@ -21,7 +21,7 @@ jobs:
       - name: Install Pnpm
         uses: pnpm/action-setup@v3
         with:
-          version: 8.8.0
+          version: 11.25.0
       # 安装node
       - name: 设置Node.js
         # 使用actions/setup-node插件
